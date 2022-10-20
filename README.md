@@ -1,4 +1,12 @@
 # [albertyw.com](https://www.albertyw.com)
+<!DOCTYPE html>
+<html>
+<body>
+<img src="https://www.albertyw.com/static/face.jpg" alt="W3Schools.com" style="width:500px;height:5
+02px;">
+
+</body>
+</html>
 
 [![Build Status](https://drone.albertyw.com/api/badges/albertyw/albertyw.com/status.svg)](https://drone.albertyw.com/albertyw/albertyw.com)
 [![Updates](https://pyup.io/repos/github/albertyw/albertyw.com/shield.svg)](https://pyup.io/repos/github/albertyw/albertyw.com/)
